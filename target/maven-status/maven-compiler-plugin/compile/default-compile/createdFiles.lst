@@ -1,0 +1,16 @@
+kz\kdlolymp\autobot\command\Command.class
+kz\kdlolymp\autobot\bot\Bot.class
+kz\kdlolymp\autobot\handler\SystemHandler.class
+kz\kdlolymp\autobot\handler\SystemHandler$1.class
+kz\kdlolymp\autobot\service\MessageSender.class
+kz\kdlolymp\autobot\ability\Notify.class
+kz\kdlolymp\autobot\App.class
+kz\kdlolymp\autobot\service\MessageSender$1.class
+kz\kdlolymp\autobot\command\Parser.class
+kz\kdlolymp\autobot\handler\AbstractHandler.class
+kz\kdlolymp\autobot\handler\DefaultHandler.class
+kz\kdlolymp\autobot\service\MessageSender$MessageType.class
+kz\kdlolymp\autobot\handler\NotifyHandler.class
+kz\kdlolymp\autobot\command\ParsedCommand.class
+kz\kdlolymp\autobot\service\MessageReceiver$1.class
+kz\kdlolymp\autobot\service\MessageReceiver.class
