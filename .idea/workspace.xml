@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfa0002f-e9e1-4381-84c9-fbba8bab97c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,14 +27,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="6630" />
-          <entry key="properties" value="30" />
+          <entry key="properties" value="34" />
           <entry key="xml" value="143" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="6630" />
-          <entry key="Properties" value="30" />
+          <entry key="Properties" value="34" />
           <entry key="XML" value="143" />
         </counts>
       </usages-collector>
@@ -56,7 +56,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -90,7 +90,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -198,12 +198,12 @@
         <option value="$PROJECT_DIR$/src/main/java/kz/kdlolymp/autobot/service/MessageReceiver.java" />
         <option value="$PROJECT_DIR$/src/main/java/kz/kdlolymp/autobot/handler/NotifyHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/kz/kdlolymp/autobot/service/MessageSender.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/java/kz/kdlolymp/autobot/command/ParserTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/kz/kdlolymp/autobot/command/ParserTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/kz/kdlolymp/autobot/bot/Bot.java" />
         <option value="$PROJECT_DIR$/src/main/java/kz/kdlolymp/autobot/ability/Notify.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
       </list>
     </option>
   </component>
@@ -224,8 +224,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="328" />
-    <option name="y" value="5" />
+    <option name="x" value="125" />
     <option name="width" value="1058" />
     <option name="height" value="725" />
   </component>
@@ -368,7 +367,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="159" y="5" width="1058" height="725" extended-state="0" />
+    <frame x="125" y="0" width="1058" height="725" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21342686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -472,13 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/kz/kdlolymp/autobot/handler/NotifyHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -536,6 +528,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
         </state>
       </provider>
     </entry>
